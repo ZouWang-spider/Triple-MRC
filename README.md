@@ -1,7 +1,8 @@
-# Triple-MRC
+# A Multi-Task Shared Cascade Learning for Aspect Sentiment Triplet Extraction using BERT-MRC
 A Multi-Task Shared Cascade Learning for Aspect Sentiment Triplet Extraction using BERT-MRC accepted by Cognitive Computation (2024)
 
 <img src="Triplet/picture/Triple-MRC.png" alt="Triple-MRC">
+# Triple-MRC
 
 Source available：
 (i) The BiAffine model is available at https://github.com/chantera/biaffineparser
